@@ -1,0 +1,44 @@
+CODE TO GET ALL REPOSITORIES
+
+curl \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/orgs/amfoss/repos
+  
+  
+  
+  PERCEVAL CODE TO GET ALL THE COMMITS
+  
+  
+  perceval git --json-line https://github.com/amfoss/cms  >> commits.json
+  perceval git --json-line https://github.com/amfoss/website  >> commits.json
+  perceval git --json-line https://github.com/amfoss/Pravesham  >> commits.json
+  perceval git --json-line https://github.com/amfoss/bot  >> commits.json
+  perceval git --json-line https://github.com/amfoss/WebApp  >> commits.json
+  perceval git --json-line https://github.com/amfoss/taks  >> commits.json
+  perceval git --json-line https://github.com/amfoss/star-me  >> commits.json
+  perceval git --json-line https://github.com/amfoss/amdec-website  >> commits.json
+  perceval git --json-line https://github.com/amfoss/Wiki  >> commits.json
+  perceval git --json-line https://github.com/amfoss/cms-mobile  >> commits.json
+  perceval git --json-line https://github.com/amfoss/GitLit  >> commits.json
+  perceval git --json-line https://github.com/amfoss/Qujini  >> commits.json
+  perceval git --json-line https://github.com/amfoss/TempleApp  >> commits.json
+  perceval git --json-line https://github.com/amfoss/attende-tracker  >> commits.json
+  perceval git --json-line https://github.com/amfoss/events  >> commits.json
+  perceval git --json-line https://github.com/amfoss/master-syllabus  >> commits.json
+  perceval git --json-line https://github.com/amfoss/vidyaratna  >> commits.json
+  perceval git --json-line https://github.com/amfoss/test-repo  >> commits.json
+  perceval git --json-line https://github.com/amfoss/webspace  >> commits.json
+  perceval git --json-line https://github.com/amfoss/internal-hackathon  >> commits.json
+  perceval git --json-line https://github.com/amfoss/foss-meetups  >> commits.json
+  perceval git --json-line https://github.com/amfoss/automated-scripts  >> commits.json
+  perceval git --json-line https://github.com/amfoss/Hack4Amrita  >> commits.json
+  perceval git --json-line https://github.com/amfoss/fosswebsite  >> commits.json
+  perceval git --json-line https://github.com/amfoss/fosster  >> commits.json
+  perceval git --json-line https://github.com/amfoss/Foss-talks  >> commits.json
+  perceval git --json-line https://github.com/amfoss/cybergurukulam  >> commits.json
+  perceval git --json-line https://github.com/amfoss/kdeconf  >> commits.json
+  perceval git --json-line https://github.com/amfoss/android-workshop-summer-2018  >> commits.json
+  perceval git --json-line https://github.com/amfoss/App  >> commits.json
+  perceval git --json-line https://github.com/amfoss/Workshops  >> commits.json
+  perceval git --json-line https://github.com/amfoss/Wikimedia_Hackathon_Amrita_University  >> commits.json
+  perceval git --json-line https://github.com/amfoss/website_old  >> commits.json
