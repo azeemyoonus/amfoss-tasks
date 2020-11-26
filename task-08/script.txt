@@ -1,4 +1,4 @@
-CODE TO GET ALL REPOSITORIES
+CODE TO GET ALL REPOSITORIES FOR 'amfoss' ORGANISATION IN GITHUB
 
 curl \
   -H "Accept: application/vnd.github.v3+json" \
@@ -6,7 +6,7 @@ curl \
   
   
   
-  PERCEVAL CODE TO GET ALL THE COMMITS
+  PERCEVAL CODE TO GET ALL THE COMMITS OF THE REPOSITORY
   
   
   perceval git --json-line https://github.com/amfoss/cms  >> commits.json
