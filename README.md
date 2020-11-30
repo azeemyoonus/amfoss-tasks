@@ -3,7 +3,7 @@ amFOSS tasks
 # Table of Contents  
 | Tasks  | Descriptions |
 | ------------- | ------------- |
-| [Task-00](#https://github.com/azeemyoonus/amfoss-tasks/tree/main/task-00)| Installing Ubuntu  |
+| [Task-00](#/main/task-00)| Installing Ubuntu  |
 | Task-01  | Star all the amfoss repos  |
 |Task-02|Register your nick in IRC Freenode|
 |task-03|Programming|
