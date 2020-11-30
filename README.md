@@ -13,5 +13,5 @@ amFOSS tasks
 |[task-08](task-08)|Sir Perceval’s quest|
 |[task-09](task-09)|Spammer_Spaghetti|
 |[task-10](task-10)|cs50 (done till pset3)|
-|[task-11](task-11|Poster Design|
+|[task-11](task-11)|Poster Design|
 |[task-14](task14)|Bandit|
