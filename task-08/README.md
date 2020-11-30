@@ -1,1 +1,1 @@
-
+First I done by executing commands in terminal one by one then later in my mind a message came poped up that "why cant I use a for loop ".Then it cam simple i made to execute the commands which is given in tasks to number of repositeries.
