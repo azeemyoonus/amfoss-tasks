@@ -1,5 +1,5 @@
 # amfoss-tasks
-amFOSS tasks
+This is MUHAMMED AZEEM YOONUS from amrita amritapuri campus (cse 2020-2024).This is the amFOSS freshers tasks that I have done to join amfoss club.
 # Table of Contents  
 | Tasks  | Descriptions |
 | ------------- | ------------- |
