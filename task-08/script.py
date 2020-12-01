@@ -1,5 +1,5 @@
-import os
 import requests
+import os
 
 request = requests.get('https://api.github.com/users/amfoss/repos?per_page=100')
 repos = request.json()
