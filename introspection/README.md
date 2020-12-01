@@ -8,4 +8,4 @@ Want to finish android apps that I created (finishing touch)
 I work hard as I can which will be effective and usefull to all the living beings in the world .
 
 # d.Do you have any feedback for the selection process?
-I really get impressed when I see the selection pattern .It is a professional way ,making different teams and making easier for the applicant and the seniors also.
+I really get impressed when I see the selection pattern .It is a professional way ,making different teams in discord channel and can clear all the doubt with respective leaders (seniors). 
